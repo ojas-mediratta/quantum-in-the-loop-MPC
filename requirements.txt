@@ -1,0 +1,6 @@
+numpy>=1.26
+matplotlib>=3.8
+pillow>=10.0
+qiskit>=2.1
+qiskit-optimization>=0.7
+qiskit-algorithms>=0.4

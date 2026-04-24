@@ -1,0 +1,15 @@
+name: mpc-qaoa-demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy>=1.26
+  - matplotlib>=3.8
+  - pillow>=10
+  - jupyterlab
+  - ipykernel
+  - pip:
+      - qiskit>=2.1
+      - qiskit-optimization>=0.7
+      - qiskit-algorithms>=0.4
